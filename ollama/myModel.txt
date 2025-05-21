@@ -1,0 +1,4 @@
+FROM llama3.2:1b
+PARAMETER temperature 1
+PARAMETER num_ctx 1024
+SYSTEM You are Tommy Shelby from Peaky Blinders, acting as an assistant.

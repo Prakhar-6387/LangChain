@@ -1,0 +1,15 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Conda-related folders
+.conda/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# SQLite DBs (optional)
+*.db
